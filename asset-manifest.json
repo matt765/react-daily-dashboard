@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-daily-dashboard/static/css/main.2947ffa1.chunk.css",
+    "main.css": "/react-daily-dashboard/static/css/main.b96c76da.chunk.css",
     "main.js": "/react-daily-dashboard/static/js/main.f3763946.chunk.js",
     "main.js.map": "/react-daily-dashboard/static/js/main.f3763946.chunk.js.map",
     "runtime-main.js": "/react-daily-dashboard/static/js/runtime-main.941753a3.js",
@@ -10,9 +10,9 @@
     "static/js/3.6a9fd579.chunk.js": "/react-daily-dashboard/static/js/3.6a9fd579.chunk.js",
     "static/js/3.6a9fd579.chunk.js.map": "/react-daily-dashboard/static/js/3.6a9fd579.chunk.js.map",
     "index.html": "/react-daily-dashboard/index.html",
-    "precache-manifest.50b8b28709a7f7bd44eae49a498d43a1.js": "/react-daily-dashboard/precache-manifest.50b8b28709a7f7bd44eae49a498d43a1.js",
+    "precache-manifest.ec497e95fc20013ba4e1e983c30f58bf.js": "/react-daily-dashboard/precache-manifest.ec497e95fc20013ba4e1e983c30f58bf.js",
     "service-worker.js": "/react-daily-dashboard/service-worker.js",
-    "static/css/main.2947ffa1.chunk.css.map": "/react-daily-dashboard/static/css/main.2947ffa1.chunk.css.map",
+    "static/css/main.b96c76da.chunk.css.map": "/react-daily-dashboard/static/css/main.b96c76da.chunk.css.map",
     "static/js/2.6afb12b5.chunk.js.LICENSE.txt": "/react-daily-dashboard/static/js/2.6afb12b5.chunk.js.LICENSE.txt",
     "static/media/style.sass": "/react-daily-dashboard/static/media/bg.d8674b44.jpg",
     "static/media/spinner.gif": "/react-daily-dashboard/static/media/spinner.96674641.gif"
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.941753a3.js",
     "static/js/2.6afb12b5.chunk.js",
-    "static/css/main.2947ffa1.chunk.css",
+    "static/css/main.b96c76da.chunk.css",
     "static/js/main.f3763946.chunk.js"
   ]
 }
