@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/react-daily-dashboard/static/css/main.f3431d73.chunk.css",
-    "main.js": "/react-daily-dashboard/static/js/main.5c05b75e.chunk.js",
-    "main.js.map": "/react-daily-dashboard/static/js/main.5c05b75e.chunk.js.map",
+    "main.css": "/react-daily-dashboard/static/css/main.34e9cf78.chunk.css",
+    "main.js": "/react-daily-dashboard/static/js/main.a149b4c7.chunk.js",
+    "main.js.map": "/react-daily-dashboard/static/js/main.a149b4c7.chunk.js.map",
     "runtime-main.js": "/react-daily-dashboard/static/js/runtime-main.b52e12f4.js",
     "runtime-main.js.map": "/react-daily-dashboard/static/js/runtime-main.b52e12f4.js.map",
-    "static/js/2.6afb12b5.chunk.js": "/react-daily-dashboard/static/js/2.6afb12b5.chunk.js",
-    "static/js/2.6afb12b5.chunk.js.map": "/react-daily-dashboard/static/js/2.6afb12b5.chunk.js.map",
+    "static/js/2.df17dff5.chunk.js": "/react-daily-dashboard/static/js/2.df17dff5.chunk.js",
+    "static/js/2.df17dff5.chunk.js.map": "/react-daily-dashboard/static/js/2.df17dff5.chunk.js.map",
     "index.html": "/react-daily-dashboard/index.html",
-    "precache-manifest.889bc7736f8dfa5fec5d80e8e222afe6.js": "/react-daily-dashboard/precache-manifest.889bc7736f8dfa5fec5d80e8e222afe6.js",
+    "precache-manifest.4017b59ac75b2d2ab0ae11a41e49d94c.js": "/react-daily-dashboard/precache-manifest.4017b59ac75b2d2ab0ae11a41e49d94c.js",
     "service-worker.js": "/react-daily-dashboard/service-worker.js",
-    "static/css/main.f3431d73.chunk.css.map": "/react-daily-dashboard/static/css/main.f3431d73.chunk.css.map",
-    "static/js/2.6afb12b5.chunk.js.LICENSE.txt": "/react-daily-dashboard/static/js/2.6afb12b5.chunk.js.LICENSE.txt",
+    "static/css/main.34e9cf78.chunk.css.map": "/react-daily-dashboard/static/css/main.34e9cf78.chunk.css.map",
+    "static/js/2.df17dff5.chunk.js.LICENSE.txt": "/react-daily-dashboard/static/js/2.df17dff5.chunk.js.LICENSE.txt",
     "static/media/style.sass": "/react-daily-dashboard/static/media/bg.d8674b44.jpg",
     "static/media/spinner.gif": "/react-daily-dashboard/static/media/spinner.96674641.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.b52e12f4.js",
-    "static/js/2.6afb12b5.chunk.js",
-    "static/css/main.f3431d73.chunk.css",
-    "static/js/main.5c05b75e.chunk.js"
+    "static/js/2.df17dff5.chunk.js",
+    "static/css/main.34e9cf78.chunk.css",
+    "static/js/main.a149b4c7.chunk.js"
   ]
 }
