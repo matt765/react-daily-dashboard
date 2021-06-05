@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dcdec81168509fc44e4287fb03942257",
+    "revision": "2c407aa1665a4c35a68af8a8e271a048",
     "url": "/react-daily-dashboard/index.html"
   },
   {
-    "revision": "d3c7c38eb252f306b5dd",
+    "revision": "71fc9bcdb9269582d8ef",
     "url": "/react-daily-dashboard/static/css/main.b96c76da.chunk.css"
   },
   {
@@ -16,16 +16,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-daily-dashboard/static/js/2.6afb12b5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c07c2bbd020380ba3585",
-    "url": "/react-daily-dashboard/static/js/3.6a9fd579.chunk.js"
+    "revision": "71fc9bcdb9269582d8ef",
+    "url": "/react-daily-dashboard/static/js/main.5c05b75e.chunk.js"
   },
   {
-    "revision": "d3c7c38eb252f306b5dd",
-    "url": "/react-daily-dashboard/static/js/main.f3763946.chunk.js"
-  },
-  {
-    "revision": "c5accec54e271a908bcf",
-    "url": "/react-daily-dashboard/static/js/runtime-main.941753a3.js"
+    "revision": "000627394342faa635ec",
+    "url": "/react-daily-dashboard/static/js/runtime-main.b52e12f4.js"
   },
   {
     "revision": "d8674b44e8ff384c70051a492f652aa7",
