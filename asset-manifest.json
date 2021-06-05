@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-daily-dashboard/static/css/main.34e9cf78.chunk.css",
-    "main.js": "/react-daily-dashboard/static/js/main.a149b4c7.chunk.js",
-    "main.js.map": "/react-daily-dashboard/static/js/main.a149b4c7.chunk.js.map",
+    "main.js": "/react-daily-dashboard/static/js/main.fa832311.chunk.js",
+    "main.js.map": "/react-daily-dashboard/static/js/main.fa832311.chunk.js.map",
     "runtime-main.js": "/react-daily-dashboard/static/js/runtime-main.b52e12f4.js",
     "runtime-main.js.map": "/react-daily-dashboard/static/js/runtime-main.b52e12f4.js.map",
     "static/js/2.df17dff5.chunk.js": "/react-daily-dashboard/static/js/2.df17dff5.chunk.js",
     "static/js/2.df17dff5.chunk.js.map": "/react-daily-dashboard/static/js/2.df17dff5.chunk.js.map",
     "index.html": "/react-daily-dashboard/index.html",
-    "precache-manifest.4017b59ac75b2d2ab0ae11a41e49d94c.js": "/react-daily-dashboard/precache-manifest.4017b59ac75b2d2ab0ae11a41e49d94c.js",
+    "precache-manifest.c31ff96c8ae901e9443760cca224cf25.js": "/react-daily-dashboard/precache-manifest.c31ff96c8ae901e9443760cca224cf25.js",
     "service-worker.js": "/react-daily-dashboard/service-worker.js",
     "static/css/main.34e9cf78.chunk.css.map": "/react-daily-dashboard/static/css/main.34e9cf78.chunk.css.map",
     "static/js/2.df17dff5.chunk.js.LICENSE.txt": "/react-daily-dashboard/static/js/2.df17dff5.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.b52e12f4.js",
     "static/js/2.df17dff5.chunk.js",
     "static/css/main.34e9cf78.chunk.css",
-    "static/js/main.a149b4c7.chunk.js"
+    "static/js/main.fa832311.chunk.js"
   ]
 }
